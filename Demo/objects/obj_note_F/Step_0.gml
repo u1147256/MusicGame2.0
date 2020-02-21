@@ -1,4 +1,4 @@
-var a_pressed;
+var f_pressed;
 f_pressed = keyboard_check_pressed(ord("F"));
 if (f_pressed)
 {

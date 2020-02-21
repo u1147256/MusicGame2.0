@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "38b898c1-221b-44ee-a618-9931606bbccb",
+            "Value": {
+                "id": "7f3caa1e-9d56-45a0-b457-d267e30b6851",
+                "resourcePath": "sprites\\Bar_Letter\\Bar_Letter.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "42cf5dc1-0945-4ff7-8859-b19bfac7d0a8",
             "Value": {
                 "id": "e3fab8fc-c75a-4a79-a13f-7fbf0e797dd0",
