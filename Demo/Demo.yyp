@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "5378ffd2-7559-43d4-9fb8-46b1c56db393",
+            "Value": {
+                "id": "d066a496-5b98-4139-893c-3b66a0642f2b",
+                "resourcePath": "sprites\\Player_R\\Player_R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "59f09771-adff-45c8-acce-81c46cd6a4e7",
             "Value": {
                 "id": "e3a6e6e1-8b83-4382-8ba4-73b667eb335b",
@@ -355,6 +363,14 @@
             "Value": {
                 "id": "ae9dfd77-dd38-4361-a6d6-6abc3b4ffb35",
                 "resourcePath": "sprites\\Bar\\Bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f9ba4e24-8bb3-4760-b71c-89ab0177bf24",
+            "Value": {
+                "id": "83a0fd75-8c16-4dce-9db4-0aa8a92dcefe",
+                "resourcePath": "sprites\\Background_Russia\\Background_Russia.yy",
                 "resourceType": "GMSprite"
             }
         },
