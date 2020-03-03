@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "078528c3-eb3f-4155-bf29-79e5cb97dfe2",
+            "Value": {
+                "id": "3e8eb3d7-09d7-4b62-a734-fbb14570f991",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b527ea7-324d-41fa-9483-708977eac3ed",
             "Value": {
                 "id": "0174d81d-00bf-439b-a8e8-b9e51aed3cbb",
@@ -119,6 +127,22 @@
             }
         },
         {
+            "Key": "3a9290a8-58bc-49e2-9155-8725b09b4070",
+            "Value": {
+                "id": "76725d21-b842-434b-bad6-93b6f6b12d9f",
+                "resourcePath": "sounds\\sound_menu_switch\\sound_menu_switch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3c5264ea-c632-43fe-b73e-722506705dc5",
+            "Value": {
+                "id": "05b53af4-1a4d-4add-8c66-8fbf63701d1e",
+                "resourcePath": "objects\\object_russia\\object_russia.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "428bcd65-68a6-43aa-8293-8de45181e84b",
             "Value": {
                 "id": "c111ed20-cd4c-4bc4-8a92-fb9e8ec0fb08",
@@ -156,6 +180,14 @@
                 "id": "3a774f0e-3211-42e1-b8e9-a760d340410f",
                 "resourcePath": "sprites\\russia\\russia.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4e915d4b-f036-4cc7-ae55-73c178eb0e82",
+            "Value": {
+                "id": "06ad0b7d-d3ad-42b8-832d-3d0dde732c3a",
+                "resourcePath": "fonts\\font_main\\font_main.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "4bbc9b7c-36d8-4f23-9575-e1e2edc9739d",
                 "resourcePath": "views\\dded36f2-a3b8-4dd9-b324-cb1e32351af2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dec1daf6-554c-4121-a0cc-52dc0d57f199",
+            "Value": {
+                "id": "c5764672-4229-419b-a9aa-75ca2fd6e4d1",
+                "resourcePath": "objects\\o_menu\\o_menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
