@@ -8,4 +8,4 @@ if (menu_index > buttons -1) menu_index = 0;
 if (menu_index != last_selected) audio_play_sound(sound_menu_switch, 1, false)
 
 last_selected = menu_index;
-
+show_debug_message(x);

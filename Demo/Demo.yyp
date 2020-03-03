@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "17105858-dccb-4083-9f2c-63e3d0b24c6f",
+            "Value": {
+                "id": "ec6d8e67-b12f-4a2c-8521-d863ca980f1b",
+                "resourcePath": "views\\b22da523-d4b8-435c-91f7-7b347d19050f-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "1b404c5e-9bfd-4090-a7be-168b84fbf4bb",
             "Value": {
                 "id": "0730d7ef-7bb8-4d41-b852-5f2b4f662233",
@@ -116,6 +124,14 @@
                 "id": "c82680a0-d4af-4ae1-b9ab-92e005cf7174",
                 "resourcePath": "views\\357fe0ac-b0bc-4078-ba9d-fb90851f220d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "364e53a7-be33-4b04-967a-81a6a8873bd2",
+            "Value": {
+                "id": "ad099c5d-2d05-4ed2-ab0a-ffe4172ab463",
+                "resourcePath": "sprites\\sprite14\\sprite14.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "73476b55-1e7f-4aa9-bcf3-fe99723cea2f",
+            "Value": {
+                "id": "9678ed99-79a4-45f4-b9d7-bdafcccb9348",
+                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7997da79-e844-4363-b5ba-1340c4c7a4c6",
             "Value": {
                 "id": "3882f53f-537d-434c-bbda-49ac9a129fd7",
@@ -319,6 +343,14 @@
             }
         },
         {
+            "Key": "ac81f1f0-5dd9-4c4e-86bb-eac16fe9300e",
+            "Value": {
+                "id": "10dd8c9c-75ad-45f1-acc0-422625c2558e",
+                "resourcePath": "rooms\\start_screen\\start_screen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "acf2578f-a7b8-4659-9345-4f00147809a2",
             "Value": {
                 "id": "8d5c29be-3f86-4252-8739-c68f7893628d",
@@ -355,6 +387,14 @@
             "Value": {
                 "id": "70d95e49-6490-4ef3-9d97-868047239b52",
                 "resourcePath": "objects\\LVL1_song\\LVL1_song.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c524f325-f312-40f7-87fb-1126307e1134",
+            "Value": {
+                "id": "dd2f0d71-0598-47b0-b48d-0374190b6347",
+                "resourcePath": "objects\\object_map\\object_map.yy",
                 "resourceType": "GMObject"
             }
         },
