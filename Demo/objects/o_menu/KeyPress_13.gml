@@ -10,3 +10,5 @@ switch(menu_index) {
 		game_end();
 		break;
 }
+
+audio_play_sound(Menu_selected, 1, false);
