@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0448e3b4-0c69-4715-8c43-afad876c7e97",
+            "Value": {
+                "id": "a2067088-4bb4-4d0e-975e-5bd9f6b4c464",
+                "resourcePath": "objects\\o_options\\o_options.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0526bd4b-7589-4520-b017-72f5e79ad3c6",
             "Value": {
                 "id": "114fa413-ca1f-4074-8100-7c6058075255",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "1316710c-5653-43f4-b961-eac772b657e4",
+            "Value": {
+                "id": "9966c189-0139-4d8b-b2fb-4366041da955",
+                "resourcePath": "objects\\object_OBG\\object_OBG.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "13beda26-c91d-4791-ae30-fac71a70a0bb",
             "Value": {
                 "id": "44958651-46a2-45d7-9f4b-ac1d34af1cde",
@@ -74,7 +90,7 @@
             "Key": "141ba404-6592-4a63-9c06-aef218bed5cc",
             "Value": {
                 "id": "21c8c03f-a212-4bd7-ab78-285aff7ab17a",
-                "resourcePath": "sprites\\sprite9\\sprite9.yy",
+                "resourcePath": "sprites\\Map\\Map.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -503,6 +519,14 @@
             }
         },
         {
+            "Key": "b5deae54-3486-4e91-a848-2287ec83049f",
+            "Value": {
+                "id": "5eabaff1-17b6-4da5-b5c6-0e0e1e0f46e6",
+                "resourcePath": "sprites\\Option_BG\\Option_BG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b7e18d5f-b939-4606-a1fb-e9d537e053e7",
             "Value": {
                 "id": "6d3aa0d7-fe99-4762-8b33-2c5fbd2f1a81",
@@ -660,6 +684,22 @@
                 "id": "ae9dfd77-dd38-4361-a6d6-6abc3b4ffb35",
                 "resourcePath": "sprites\\Bar\\Bar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f84fae25-4c18-4fdb-bd3e-7bda5bc20fec",
+            "Value": {
+                "id": "f59163e5-9a12-437a-a8db-f46e4e13f661",
+                "resourcePath": "sounds\\Schei\\Schei.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f8631f83-87fa-4d0e-bb7d-e6fbff450743",
+            "Value": {
+                "id": "446eaa35-e40d-4c9f-b75c-d8cfe5cd6b7f",
+                "resourcePath": "rooms\\Options\\Options.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
