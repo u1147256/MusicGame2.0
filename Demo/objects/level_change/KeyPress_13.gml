@@ -1,1 +1,1 @@
-room_goto(lvl1Debug);
+room_goto(lvl1_Improved);

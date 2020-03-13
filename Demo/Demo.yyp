@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "2d51b042-b21f-4ea5-88f8-75b3a096961a",
+            "Value": {
+                "id": "f68ed673-7167-4e4f-ba6f-98b79d7d98e3",
+                "resourcePath": "scripts\\generateNote\\generateNote.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2efc7fd0-fb04-4f89-8065-56ecb83b1244",
             "Value": {
                 "id": "d57a3ed4-3b75-4e9a-b599-d718bb11827d",
@@ -303,6 +311,14 @@
             }
         },
         {
+            "Key": "5943f357-e9ee-4cde-892e-532fcce62112",
+            "Value": {
+                "id": "75c48ec8-ca96-4266-8b22-d9221a2f2ae0",
+                "resourcePath": "rooms\\lvl1_Improved\\lvl1_Improved.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "59f09771-adff-45c8-acce-81c46cd6a4e7",
             "Value": {
                 "id": "e3a6e6e1-8b83-4382-8ba4-73b667eb335b",
@@ -356,6 +372,14 @@
                 "id": "cbfd5483-9a29-47d1-8d04-9740c9ba59f7",
                 "resourcePath": "sprites\\Note_3\\Note_3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6eefa4ab-192f-409a-8070-f2c86b948ec2",
+            "Value": {
+                "id": "1dea48b1-ecb0-48a1-ba83-f148b31dc0af",
+                "resourcePath": "timelines\\timeline0\\timeline0.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
@@ -444,6 +468,14 @@
                 "id": "1fa4b226-d4a6-434a-8622-6e502e585b1d",
                 "resourcePath": "views\\98ccf387-6ce9-432a-9486-90def15f103e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9da29c35-9c66-498d-bf5f-ae449526239e",
+            "Value": {
+                "id": "ebf4fa28-32ab-4862-a7f9-9f24a2438583",
+                "resourcePath": "datafiles_yy\\LVL1_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -623,14 +655,6 @@
             }
         },
         {
-            "Key": "e367d7c8-7c0b-4856-85bd-46cc1c336091",
-            "Value": {
-                "id": "1a8ff9b6-8b89-4d54-a82b-179697e24fdb",
-                "resourcePath": "timelines\\timeline0\\timeline0.yy",
-                "resourceType": "GMTimeline"
-            }
-        },
-        {
             "Key": "e75f0332-279b-4bc8-9fdd-1a4f87076417",
             "Value": {
                 "id": "ae56365e-d89f-4d32-8586-5338e9326fd6",
@@ -728,7 +752,7 @@
         }
     ],
     "script_order": [
-        
+        "2d51b042-b21f-4ea5-88f8-75b3a096961a"
     ],
     "tutorial": ""
 }
