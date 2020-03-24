@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "33d28274-8f6f-4efe-8c55-291cb38aa140",
+            "Value": {
+                "id": "3708444b-ccfe-493b-996b-e76c6a4a7abf",
+                "resourcePath": "objects\\LVL2_Debug\\LVL2_Debug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3507b667-263f-4cde-9e2f-d62bd113ac76",
             "Value": {
                 "id": "a2bcd6e1-c260-4703-9772-1c6788178e7d",
@@ -314,7 +322,7 @@
             "Key": "5943f357-e9ee-4cde-892e-532fcce62112",
             "Value": {
                 "id": "75c48ec8-ca96-4266-8b22-d9221a2f2ae0",
-                "resourcePath": "rooms\\lvl1_Improved\\lvl1_Improved.yy",
+                "resourcePath": "rooms\\lvl1\\lvl1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -415,14 +423,6 @@
             }
         },
         {
-            "Key": "80194fee-2ed7-4edc-85a3-39fdfed938a0",
-            "Value": {
-                "id": "5078b255-ba4e-4d3c-9c4b-443ac87c8de9",
-                "resourcePath": "rooms\\lvl1\\lvl1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "844e0322-1abf-4fc9-8e4a-cd10d61e50d8",
             "Value": {
                 "id": "5ef53ad9-b623-4ed2-8b1c-c000f06dde42",
@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "abc4ac20-f7aa-43ff-aa04-5b6c0205876d",
+            "Value": {
+                "id": "a37b7a72-5489-4108-b512-416d435e9949",
+                "resourcePath": "objects\\LVL2_song\\LVL2_song.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ac81f1f0-5dd9-4c4e-86bb-eac16fe9300e",
             "Value": {
                 "id": "10dd8c9c-75ad-45f1-acc0-422625c2558e",
@@ -532,6 +540,14 @@
                 "id": "d1b055bb-6f5f-4c31-82b2-c22574869046",
                 "resourcePath": "views\\afcdc6df-e8d4-4b96-8bb7-3827c4028fd8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0dd8272-8759-451e-8148-51f8874712de",
+            "Value": {
+                "id": "166fedd5-6e1e-4304-885c-bc1df8f81401",
+                "resourcePath": "datafiles_yy\\LVL2_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -620,6 +636,14 @@
                 "id": "1fdd099d-5bc1-462f-a048-cf1d2a7ebe24",
                 "resourcePath": "views\\d3c0d77b-de53-40ad-9041-4bf768ec4ab3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d670c47b-96f5-40cb-928c-177492846d73",
+            "Value": {
+                "id": "f77442b6-ddd7-4836-b834-40174fe46066",
+                "resourcePath": "rooms\\lvl2Debug\\lvl2Debug.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
