@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_bar",
     "eventList": [
-        {
-            "id": "e6a7b206-f5c6-4a59-af7c-cda73e5895e3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "13beda26-c91d-4791-ae30-fac71a70a0bb"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -1,10 +1,11 @@
 var f_pressed;
 f_pressed = keyboard_check_pressed(ord("F"));
-if (f_pressed)
+if (f_pressed && image_index == 0)
 {
-	var inst = instance_place(x + 0, y + 0, obj_bar);
+	var inst = instance_place(x, y, obj_bar);
 	if ((inst > 0))
 	{
-		instance_destroy();
+		alarm_set(0, 3);
+		image_index = 1;
 	}
 }

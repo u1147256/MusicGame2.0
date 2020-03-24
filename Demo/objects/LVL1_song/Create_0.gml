@@ -4,6 +4,7 @@ alarm_set(1, 4200);
 timeline_index = timeline0;
 timeline_position = 0;
 timeline_running = true;
+timeline_clear(timeline0);
 
 file = file_text_open_read(working_directory + "\LVL1_Notes.txt");
 var i = 0;
