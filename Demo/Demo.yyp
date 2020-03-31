@@ -487,6 +487,14 @@
             }
         },
         {
+            "Key": "958f681b-9556-4557-819b-ae441f4bc880",
+            "Value": {
+                "id": "f56221be-d95e-470a-bc18-e214cd169e54",
+                "resourcePath": "objects\\Note_Hitbox\\Note_Hitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "98ccf387-6ce9-432a-9486-90def15f103e",
             "Value": {
                 "id": "1fa4b226-d4a6-434a-8622-6e502e585b1d",
@@ -623,6 +631,14 @@
             }
         },
         {
+            "Key": "c32ed73f-477e-4dac-863e-620431b107fb",
+            "Value": {
+                "id": "09c6a8e6-3523-4f01-9a27-a827fb5ac3b1",
+                "resourcePath": "rooms\\Failure\\Failure.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c524f325-f312-40f7-87fb-1126307e1134",
             "Value": {
                 "id": "dd2f0d71-0598-47b0-b48d-0374190b6347",
@@ -676,6 +692,14 @@
                 "id": "1b3287ad-13d8-45a8-b39d-e2753a64fb0c",
                 "resourcePath": "objects\\level_change\\level_change.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dda97fb9-9a0c-4272-9929-86c483c9ba73",
+            "Value": {
+                "id": "a63064d4-cf26-459e-a270-c2d6e101de00",
+                "resourcePath": "sprites\\FAILURE_SPR\\FAILURE_SPR.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -791,10 +815,26 @@
             }
         },
         {
+            "Key": "fa7584dc-62bd-485e-bffb-9bd8f26ca93b",
+            "Value": {
+                "id": "ff5acbf3-3cbe-438c-af69-508c49ab8ab3",
+                "resourcePath": "objects\\FAILURE_OBJ\\FAILURE_OBJ.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fc70661a-62be-4249-bafe-4780ad97dd31",
             "Value": {
                 "id": "ec841a97-43f7-4e94-8f60-585685d2afde",
                 "resourcePath": "objects\\obj_BG2\\obj_BG2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fc787740-d7ca-4f73-8136-dc71d695b8bd",
+            "Value": {
+                "id": "b7b93dbd-265b-4f08-914e-cd9dd2259b80",
+                "resourcePath": "objects\\Score\\Score.yy",
                 "resourceType": "GMObject"
             }
         },
