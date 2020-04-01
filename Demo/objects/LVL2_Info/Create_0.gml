@@ -3,3 +3,4 @@ alarm_set(1, 4200);
 
 info2_x = x
 info2_y = y
+audio_stop_all();

@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "121bc3b1-dfc2-4241-bade-14fe5c51e171",
+            "Value": {
+                "id": "f200e95c-d86c-4f28-a341-c7c0848419a8",
+                "resourcePath": "sounds\\BGMusic\\BGMusic.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1316710c-5653-43f4-b961-eac772b657e4",
             "Value": {
                 "id": "9966c189-0139-4d8b-b2fb-4366041da955",
@@ -884,6 +892,14 @@
                 "id": "5ddd900f-ee36-44e9-8d70-64d2dbd48f8f",
                 "resourcePath": "fonts\\smol\\smol.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "e6c53660-652c-4f0a-8696-2834723383d9",
+            "Value": {
+                "id": "66769d4c-956e-421e-bb8b-717cac3fdcb2",
+                "resourcePath": "objects\\BG_track\\BG_track.yy",
+                "resourceType": "GMObject"
             }
         },
         {
