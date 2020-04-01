@@ -8,7 +8,7 @@ timeline_clear(timeline0);
 global.notes = 0;
 global.hit = 0;
 global.missed = 0;
-
+audio_stop_all();
 file = file_text_open_read(working_directory + "\LVL1_Notes.txt");
 var i = 0;
 while (!file_text_eof(file))
