@@ -8,6 +8,7 @@ timeline_clear(timeline0);
 global.notes = 0;
 global.hit = 0;
 global.missed = 0;
+global.last_level = 1;
 audio_stop_all();
 file = file_text_open_read(working_directory + "\LVL1_Notes.txt");
 var i = 0;
@@ -23,4 +24,9 @@ while (!file_text_eof(file))
 	}
 }
 file_text_close(file);
+
+if global.last_level == 5
+	{
+	room_restart();
+	}
 //instance_create_layer(0, 0, "instances", Score);
