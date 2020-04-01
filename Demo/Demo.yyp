@@ -583,10 +583,18 @@
             }
         },
         {
+            "Key": "9b5638a6-a92a-4a6c-8c3a-65edeb91e975",
+            "Value": {
+                "id": "308d67e4-6cc5-45c9-90a5-92f28b9307f5",
+                "resourcePath": "datafiles_yy\\LVL1_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "9da29c35-9c66-498d-bf5f-ae449526239e",
             "Value": {
                 "id": "ebf4fa28-32ab-4862-a7f9-9f24a2438583",
-                "resourcePath": "datafiles_yy\\LVL1_Notes.txt.yy",
+                "resourcePath": "datafiles_yy\\Original LVL1_Notes.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -658,7 +666,7 @@
             "Key": "b0dd8272-8759-451e-8148-51f8874712de",
             "Value": {
                 "id": "166fedd5-6e1e-4304-885c-bc1df8f81401",
-                "resourcePath": "datafiles_yy\\LVL2_Notes.txt.yy",
+                "resourcePath": "datafiles_yy\\Original LVL2_Notes.txt.yy",
                 "resourceType": "GMIncludedFile"
             }
         },
@@ -804,6 +812,14 @@
                 "id": "1b3287ad-13d8-45a8-b39d-e2753a64fb0c",
                 "resourcePath": "objects\\level_change\\level_change.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da513a87-145c-47ae-9afa-d1b6c5603add",
+            "Value": {
+                "id": "3375d38c-a207-4d75-85ae-853ec32ad912",
+                "resourcePath": "datafiles_yy\\LVL2_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
