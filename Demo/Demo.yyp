@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "644625c3-788d-41d1-97ef-a458585a9571",
+            "Value": {
+                "id": "5c140d5d-d839-4cf9-9cf5-7c67bbabec45",
+                "resourcePath": "paths\\lvl2_path\\lvl2_path.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "68fe1f94-252b-4682-9c64-a06c40ca72df",
             "Value": {
                 "id": "df9f533f-dd54-4b78-850f-6ffc367256ad",
@@ -691,6 +699,14 @@
             "Value": {
                 "id": "a37b7a72-5489-4108-b512-416d435e9949",
                 "resourcePath": "objects\\LVL2_song\\LVL2_song.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ac5ee9a7-7c5a-4a0d-a7ac-54a2823321ef",
+            "Value": {
+                "id": "7202e9a9-e2e1-49ac-8ce0-814a3d887601",
+                "resourcePath": "objects\\obj_character\\obj_character.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -956,6 +972,14 @@
                 "id": "5ddd900f-ee36-44e9-8d70-64d2dbd48f8f",
                 "resourcePath": "fonts\\smol\\smol.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "e205105f-7cf9-49cb-a3a6-879b49ec6af0",
+            "Value": {
+                "id": "219443e2-dc15-4063-b8da-6205bd9418b9",
+                "resourcePath": "paths\\lvl1_path\\lvl1_path.yy",
+                "resourceType": "GMPath"
             }
         },
         {
