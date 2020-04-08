@@ -1,0 +1,1 @@
+instance_create_layer(1230, 0, "instances", obj_note_F);
