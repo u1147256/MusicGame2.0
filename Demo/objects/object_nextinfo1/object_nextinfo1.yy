@@ -5,12 +5,12 @@
     "name": "object_nextinfo1",
     "eventList": [
         {
-            "id": "61c89e2f-6a4e-4242-bb24-8bcc6d3a58c7",
+            "id": "c500c845-38a1-413f-87b2-2ec7847b8115",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 7,
             "eventtype": 6,
             "m_owner": "59bacbd2-81a1-4628-ab32-37b1d67847db"
         }
