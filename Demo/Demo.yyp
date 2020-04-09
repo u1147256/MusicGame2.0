@@ -343,11 +343,35 @@
             }
         },
         {
+            "Key": "492b4b39-99cc-4eae-ae38-2f456ddf35a3",
+            "Value": {
+                "id": "ed6f0e2b-600c-4f96-bd1f-6fa97d73d8ec",
+                "resourcePath": "sprites\\Ireland\\Ireland.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4940eaa3-32b8-402d-b66b-f16764191e43",
             "Value": {
                 "id": "3a774f0e-3211-42e1-b8e9-a760d340410f",
                 "resourcePath": "sprites\\russia\\russia.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4a665b64-2448-45ed-b9f1-a134a1c6d638",
+            "Value": {
+                "id": "3d24d2bb-5aca-427c-a2ea-25044c326f90",
+                "resourcePath": "rooms\\lvl3\\lvl3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4aa9ee28-a824-4ae4-9889-c82dbd0fbfe3",
+            "Value": {
+                "id": "f529c565-8d89-4573-b5b2-4c223e120b00",
+                "resourcePath": "objects\\o_continue3a\\o_continue3a.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -807,6 +831,22 @@
             }
         },
         {
+            "Key": "bbad59b2-4500-4ecf-ac7b-9765fb5687c3",
+            "Value": {
+                "id": "f2f8d1b4-a9ad-483b-beb3-4e4786ba60f0",
+                "resourcePath": "sprites\\BG_3\\BG_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bc97d7ba-f331-4c6f-ba4c-8dc12ce18b32",
+            "Value": {
+                "id": "6cd9773c-bf2a-4d3a-b145-26d3a10707ea",
+                "resourcePath": "rooms\\Info3a\\Info3a.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c2225178-ad37-4c60-8317-eb023221bf3f",
             "Value": {
                 "id": "70d95e49-6490-4ef3-9d97-868047239b52",
@@ -844,6 +884,14 @@
                 "id": "ac8d3a43-27f0-4e5e-a4d4-5fa2130d599b",
                 "resourcePath": "sprites\\BG_2\\BG_2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c8b835dd-a38a-4f28-a72a-2c8d9a8bf9ae",
+            "Value": {
+                "id": "90689199-9454-4f70-923b-69d87e4a3d13",
+                "resourcePath": "objects\\obj_BG3\\obj_BG3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
