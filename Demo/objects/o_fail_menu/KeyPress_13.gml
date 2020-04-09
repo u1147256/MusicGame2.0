@@ -3,11 +3,11 @@ switch(menu_index) {
 	case 0:
 		if global.last_level == 1
 			{
-			room_goto(Info1);
+			room_goto(lvl1);
 			}
 		else if global.last_level == 2
 			{
-			room_goto(Info2);
+			room_goto(lvl2);
 			}
 		else
 			{
