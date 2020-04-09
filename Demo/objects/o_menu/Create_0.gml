@@ -5,7 +5,7 @@ button_h = 80;
 
 button[0] = "Start Game";
 button[1] = "Options";
-button[2] = "High Scores";
+button[2] = "Sources";
 button[3] = "Exit";
 buttons = array_length_1d(button);
 
