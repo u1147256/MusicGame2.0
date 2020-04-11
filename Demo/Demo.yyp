@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "08dbad62-7b78-4a3f-8c3b-a430bd593e13",
+            "Value": {
+                "id": "6704dcaa-b527-405e-bb9b-d1978860a6c8",
+                "resourcePath": "objects\\LVL3_Debug\\LVL3_Debug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0b527ea7-324d-41fa-9483-708977eac3ed",
             "Value": {
                 "id": "0174d81d-00bf-439b-a8e8-b9e51aed3cbb",
@@ -91,6 +99,14 @@
             "Value": {
                 "id": "0a78369f-0de7-49d1-81bf-dbf74aa1c367",
                 "resourcePath": "sounds\\Info_LVL2_2\\Info_LVL2_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "11198030-1ecd-4b50-8e56-f49585f822f9",
+            "Value": {
+                "id": "bc446fcb-b31f-49cb-a9f1-84ba5ff45909",
+                "resourcePath": "sounds\\Winj\\Winj.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -623,6 +639,14 @@
             }
         },
         {
+            "Key": "7e256d31-3c93-427f-80cd-e1dd6ab18998",
+            "Value": {
+                "id": "9d6d5300-728f-412e-946d-54e7235b0ed8",
+                "resourcePath": "rooms\\lvl3Debug\\lvl3Debug.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "82ee8908-d63a-4795-9afc-ff51442971d4",
             "Value": {
                 "id": "9daaff2a-bd9c-4213-9801-f7ec546541d2",
@@ -751,6 +775,14 @@
             }
         },
         {
+            "Key": "a0d92984-adfe-4cb5-b7dd-2ff151924f34",
+            "Value": {
+                "id": "2d00267a-7b31-400f-a09d-358761cd3db4",
+                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "a0f9c8d7-acd1-477f-acf1-755f5adb0053",
             "Value": {
                 "id": "cc034ab6-7dba-4f45-bcc6-68dc96e01cef",
@@ -855,6 +887,14 @@
             }
         },
         {
+            "Key": "b67726d5-f1e6-4a86-a560-9d50d097c45c",
+            "Value": {
+                "id": "975ee6f3-5569-4c92-b3e0-5a6d0bda84a2",
+                "resourcePath": "objects\\LVL3_song\\LVL3_song.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b7c782d9-10d2-40b8-9f18-7c5933655ab0",
             "Value": {
                 "id": "98c42090-8f52-4d66-b190-d1ea46b0bf5d",
@@ -876,6 +916,14 @@
                 "id": "f489d664-65d1-4cb4-af0f-ebe9d939f104",
                 "resourcePath": "sprites\\sprite_highscore\\sprite_highscore.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba6527d1-55af-47d9-bad8-a1fa8544d706",
+            "Value": {
+                "id": "baff41e8-61e6-4ceb-b4d8-4335ef5000f7",
+                "resourcePath": "paths\\lvl3_path\\lvl3_path.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -1004,14 +1052,6 @@
                 "id": "f77442b6-ddd7-4836-b834-40174fe46066",
                 "resourcePath": "rooms\\lvl2Debug\\lvl2Debug.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "d7846b52-41a0-4125-82ce-1a7a93d63e5e",
-            "Value": {
-                "id": "1b3287ad-13d8-45a8-b39d-e2753a64fb0c",
-                "resourcePath": "objects\\level_change\\level_change.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1164,6 +1204,14 @@
                 "id": "57233bc3-be27-41e3-bd77-4e7ed3ef5fc3",
                 "resourcePath": "views\\f3aef0cb-697b-4369-8d29-f2821db45385.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f489675b-3c7b-4bf1-9c05-3f8ee9f6130e",
+            "Value": {
+                "id": "2783e3f7-d18b-485a-ab5d-21b847d2c6d4",
+                "resourcePath": "timelines\\timeline3\\timeline3.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
