@@ -23,10 +23,20 @@
             {
                 "Key": 2,
                 "Value": {
-                    "id": "51b4f748-8980-40d3-a249-02d362007f25",
+                    "id": "eca79df1-ef07-47a0-a062-b8fab13f7d0c",
                     "modelName": "GMAudioGroup",
                     "mvc": "1.0",
-                    "groupName": "audiogroup_music",
+                    "groupName": "audiogroup_voice",
+                    "targets": 461609314234257646
+                }
+            },
+            {
+                "Key": 3,
+                "Value": {
+                    "id": "5970abde-6aa0-48a0-9950-63019ae24622",
+                    "modelName": "GMAudioGroup",
+                    "mvc": "1.0",
+                    "groupName": "audiogroup_songs",
                     "targets": 461609314234257646
                 }
             }

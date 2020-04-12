@@ -110,4 +110,15 @@ while (!file_text_eof(file))
 	}
 }
 file_text_close(file);
+
+// this is for setting volumes later.
+global.voiceIndex = 5;
+global.musicIndex = 5;
+global.FXIndex = 5;
+global.volumeArr = [0, 0.2, 0.4, 0.6, 0.8, 1]; //array for volume sliders
+
+audio_group_load(audiogroup_voice);
+audio_group_load(audiogroup_songs);
+audio_group_load(audiogroup_fx);
+
 room_goto(start_screen);

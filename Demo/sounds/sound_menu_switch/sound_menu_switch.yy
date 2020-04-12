@@ -3,7 +3,7 @@
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "sound_menu_switch",
-    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "audioGroupGuid": "6d8ce719-c0eb-47d3-bc8d-efdf50340d1d",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,

@@ -3,7 +3,7 @@
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "Schei",
-    "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
+    "audioGroupGuid": "5970abde-6aa0-48a0-9950-63019ae24622",
     "bitDepth": 1,
     "bitRate": 128,
     "kind": 0,
