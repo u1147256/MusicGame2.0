@@ -5,12 +5,12 @@
     "name": "obj_painbutton",
     "eventList": [
         {
-            "id": "eed7342c-91f0-4a3f-93b3-08a699375184",
+            "id": "387aee39-de61-461d-9798-8c9ab5bc2393",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 7,
             "eventtype": 6,
             "m_owner": "833feaa8-653b-4aa2-83e1-57750b27779a"
         }

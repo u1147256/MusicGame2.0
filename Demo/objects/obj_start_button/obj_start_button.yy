@@ -5,12 +5,12 @@
     "name": "obj_start_button",
     "eventList": [
         {
-            "id": "d4f0ec57-95f9-4872-8cbc-a956c71090c9",
+            "id": "3455984a-9d40-42bb-8612-93b5069c28a9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 7,
             "eventtype": 6,
             "m_owner": "90f57982-99f3-4f76-8b69-d46e0e6ba3c1"
         }

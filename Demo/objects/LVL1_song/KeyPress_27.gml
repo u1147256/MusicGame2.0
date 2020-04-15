@@ -1,2 +1,2 @@
 audio_stop_sound(Katyusha);
-room_goto(start_screen);
+room_goto(pause_screen);
