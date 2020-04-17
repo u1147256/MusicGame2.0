@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "1b0ec89b-2118-4596-ac74-5ecb5ef30711",
+            "Value": {
+                "id": "f433b7e2-6943-41eb-99f4-b02ba011a20e",
+                "resourcePath": "objects\\LVL4_song\\LVL4_song.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b404c5e-9bfd-4090-a7be-168b84fbf4bb",
             "Value": {
                 "id": "0730d7ef-7bb8-4d41-b852-5f2b4f662233",

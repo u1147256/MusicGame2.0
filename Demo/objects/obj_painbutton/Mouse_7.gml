@@ -7,8 +7,13 @@ if global.last_level == 1
 			}
 		else if global.last_level == 2
 			{
-			global.last_level = 6;
+			global.last_level = 5;
 			room_goto(lvl2);
+			}
+		else if global.last_level == 3
+			{
+			global.last_level = 6;
+			room_goto(lvl3);
 			}
 		else
 			{
