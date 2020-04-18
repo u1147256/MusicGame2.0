@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "09d06d95-109f-4a75-addd-113e7d8c06fd",
+            "Value": {
+                "id": "8fabc3fc-f388-49b0-b992-239122a2dba1",
+                "resourcePath": "rooms\\Victory\\Victory.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0b527ea7-324d-41fa-9483-708977eac3ed",
             "Value": {
                 "id": "0174d81d-00bf-439b-a8e8-b9e51aed3cbb",
@@ -367,6 +375,14 @@
             }
         },
         {
+            "Key": "3c270a35-4b8f-4211-9286-86e2c2573863",
+            "Value": {
+                "id": "dc1b00a8-da66-43e0-af5b-013d412720f4",
+                "resourcePath": "sprites\\Fiddle_Token\\Fiddle_Token.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3c5264ea-c632-43fe-b73e-722506705dc5",
             "Value": {
                 "id": "05b53af4-1a4d-4add-8c66-8fbf63701d1e",
@@ -580,6 +596,22 @@
                 "id": "e3a6e6e1-8b83-4382-8ba4-73b667eb335b",
                 "resourcePath": "sounds\\Katyusha\\Katyusha.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "5b0f67b8-bfef-4341-945c-2430759a8998",
+            "Value": {
+                "id": "5da9b5ce-63f0-4899-8025-c233fbef3e07",
+                "resourcePath": "sprites\\Balalaika_Token\\Balalaika_Token.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5fcb33a3-12c3-4c68-8320-8caf9169563c",
+            "Value": {
+                "id": "f9070579-2e18-48c9-b916-efc07225c9ed",
+                "resourcePath": "sprites\\Victory_BG\\Victory_BG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -924,6 +956,14 @@
                 "id": "8d5c29be-3f86-4252-8739-c68f7893628d",
                 "resourcePath": "objects\\obj_note_A\\obj_note_A.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aea6c4f0-d7a6-4a70-9de6-4122b94699b8",
+            "Value": {
+                "id": "f6f93c36-299b-4f54-83d7-f2af1c5f15a1",
+                "resourcePath": "sprites\\Accordion_Token\\Accordion_Token.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

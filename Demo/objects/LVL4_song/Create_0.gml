@@ -6,5 +6,5 @@ timeline_position = 0;
 timeline_running = true;
 global.hit = 0;
 global.missed = 0;
-global.last_level = 3;
+global.last_level = 4;
 audio_stop_all();
