@@ -6,6 +6,9 @@ switch(menu_index) {
 	case 1:
 		room_goto(Options);
 		break;
+	case 2:
+		room_goto(Trophy);
+		break;
 	case 3:
 		game_end();
 		break;

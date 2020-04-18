@@ -378,7 +378,7 @@
             "Key": "3c270a35-4b8f-4211-9286-86e2c2573863",
             "Value": {
                 "id": "dc1b00a8-da66-43e0-af5b-013d412720f4",
-                "resourcePath": "sprites\\Fiddle_Token\\Fiddle_Token.yy",
+                "resourcePath": "sprites\\Fiddle\\Fiddle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -387,6 +387,14 @@
             "Value": {
                 "id": "05b53af4-1a4d-4add-8c66-8fbf63701d1e",
                 "resourcePath": "objects\\object_russia\\object_russia.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3d30b2f8-9367-4e16-8a57-9f5c088cfc0d",
+            "Value": {
+                "id": "c0ae6396-1213-45ee-9b53-b79e7c4d61d2",
+                "resourcePath": "objects\\Accordion_Token\\Accordion_Token.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -443,6 +451,22 @@
             "Value": {
                 "id": "35781ec1-e8c1-4e26-8128-8e054016193a",
                 "resourcePath": "objects\\obj_note_Space\\obj_note_Space.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44b2635a-cd25-4277-8194-477998f0a991",
+            "Value": {
+                "id": "ab5fc863-f684-43c6-a7f9-e94d1b1e52bb",
+                "resourcePath": "objects\\Fiddle_Token\\Fiddle_Token.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "450b3759-4363-4184-bd2b-63b69a5bac7f",
+            "Value": {
+                "id": "3be0be79-426a-42a7-bd23-c7ae115765b3",
+                "resourcePath": "objects\\Balalaika_Token\\Balalaika_Token.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -602,7 +626,7 @@
             "Key": "5b0f67b8-bfef-4341-945c-2430759a8998",
             "Value": {
                 "id": "5da9b5ce-63f0-4899-8025-c233fbef3e07",
-                "resourcePath": "sprites\\Balalaika_Token\\Balalaika_Token.yy",
+                "resourcePath": "sprites\\Balalaika\\Balalaika.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -831,6 +855,14 @@
             }
         },
         {
+            "Key": "9538c52b-466e-4076-a352-9680e871c280",
+            "Value": {
+                "id": "b0c101e4-14e7-47b3-8bff-53cd78cdbce8",
+                "resourcePath": "sprites\\Tambourine\\Tambourine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "958f681b-9556-4557-819b-ae441f4bc880",
             "Value": {
                 "id": "f56221be-d95e-470a-bc18-e214cd169e54",
@@ -962,7 +994,7 @@
             "Key": "aea6c4f0-d7a6-4a70-9de6-4122b94699b8",
             "Value": {
                 "id": "f6f93c36-299b-4f54-83d7-f2af1c5f15a1",
-                "resourcePath": "sprites\\Accordion_Token\\Accordion_Token.yy",
+                "resourcePath": "sprites\\Accordion\\Accordion.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1159,6 +1191,14 @@
             }
         },
         {
+            "Key": "cc078c69-882d-4002-86da-d423e84caf90",
+            "Value": {
+                "id": "6bb9847f-3bec-48f4-b608-d53e7744cbe4",
+                "resourcePath": "sprites\\Trohpy_sprite\\Trohpy_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc55c421-a7e9-4cf0-b2a9-8536878c2684",
             "Value": {
                 "id": "1b1ca381-0396-4f4d-a78b-402aa5b386b7",
@@ -1284,6 +1324,14 @@
                 "id": "219443e2-dc15-4063-b8da-6205bd9418b9",
                 "resourcePath": "paths\\lvl1_path\\lvl1_path.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "e3b768df-1ea0-4e12-8908-66f9d2a5e69b",
+            "Value": {
+                "id": "5290341c-ec7c-420e-9ca2-ab663d77f3b1",
+                "resourcePath": "rooms\\Trophy\\Trophy.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1444,6 +1492,14 @@
                 "id": "7a59d59a-b963-4f09-992b-5cc74d0a7571",
                 "resourcePath": "sprites\\Note_4\\Note_4.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa1a1579-bdc8-40f3-88ee-25808fb28135",
+            "Value": {
+                "id": "7247ba28-ef9f-45f3-8563-d717a4f403ee",
+                "resourcePath": "objects\\Tambourine_Token\\Tambourine_Token.yy",
+                "resourceType": "GMObject"
             }
         },
         {
