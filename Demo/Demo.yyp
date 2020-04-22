@@ -951,14 +951,6 @@
             }
         },
         {
-            "Key": "a566a6cf-baf7-414d-99c2-10690d2040ad",
-            "Value": {
-                "id": "456333a5-b408-48c4-8ffb-92e38befa34e",
-                "resourcePath": "objects\\obj_resume_button\\obj_resume_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a61274be-b511-44c3-bef2-01a9a647906a",
             "Value": {
                 "id": "41472d12-9373-444b-860f-556ec9444b2b",
