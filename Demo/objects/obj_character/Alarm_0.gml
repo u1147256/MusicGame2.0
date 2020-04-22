@@ -10,3 +10,4 @@ else if (global.last_level == 3)
 {
 	path_start(lvl3_path, path_get_length(lvl3_path)/5300, path_action_stop, false);
 }
+show_debug_message("Alarm activated");

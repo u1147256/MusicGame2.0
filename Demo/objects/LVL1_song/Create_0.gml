@@ -1,10 +1,8 @@
-alarm_set(0, 60);
-alarm_set(1, 4200);
-timeline_index = timeline1;
-timeline_position = 0;
-timeline_running = true;
+global.last_level = 1;
 global.hit = 0;
 global.missed = 0;
-global.last_level = 1;
+global.time = 0;
+global.pause = false;
+alarm_set(0, 60);
 audio_stop_all();
-show_debug_message(timeline_max_moment(timeline1));
+alarm_set(1, 4200);

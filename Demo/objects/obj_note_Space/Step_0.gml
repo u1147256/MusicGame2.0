@@ -1,3 +1,7 @@
+if (!global.pause)
+{
+	y = y + 16;
+}
 var space_pressed;
 space_pressed = keyboard_check_pressed(vk_space);
 if (space_pressed && image_index == 0)

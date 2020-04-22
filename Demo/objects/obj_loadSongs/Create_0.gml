@@ -4,6 +4,7 @@ var i = 0;
 global.lvl1notes = 0;
 global.lvl2notes = 0;
 global.lvl3notes = 0;
+global.pause = false;
 //generate level1
 while (!file_text_eof(file))
 {

@@ -11,3 +11,4 @@ buttons = array_length_1d(button);
 
 menu_index = 0;
 last_selected = 0;
+global.last_level = -1;

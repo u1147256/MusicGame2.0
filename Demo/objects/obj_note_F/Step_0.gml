@@ -1,3 +1,7 @@
+if (!global.pause)
+{
+	y = y + 16;
+}
 var f_pressed;
 f_pressed = keyboard_check_pressed(ord("F"));
 if (f_pressed && image_index == 0)
