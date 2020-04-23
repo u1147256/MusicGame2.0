@@ -1,5 +1,6 @@
 if (global.pause = false)
 {
+	image_speed = 1;
 	if (global.last_level == 1)
 	{
 		path_speed = path_get_length(lvl1_path)/4100;
@@ -24,4 +25,5 @@ else
 	{
 		alarm_set(0, -1);
 	}
+	image_speed = 0;
 }
