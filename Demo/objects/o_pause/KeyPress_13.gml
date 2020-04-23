@@ -22,6 +22,10 @@ if (global.pause)
 		{
 			room_goto(lvl3);
 		}
+		else if (global.last_level == 4)
+		{
+			room_goto(lvl4);
+		}
 		else
 		{
 			room_goto(menu);

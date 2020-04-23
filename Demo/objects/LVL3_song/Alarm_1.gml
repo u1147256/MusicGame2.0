@@ -1,1 +1,1 @@
-room_goto(start_screen);
+room_goto(Victory);

@@ -1215,6 +1215,14 @@
             }
         },
         {
+            "Key": "c6447038-3055-4538-8a2e-bb7f42e327a3",
+            "Value": {
+                "id": "dc2db30c-5af9-44c2-8375-5d4b9bd054c1",
+                "resourcePath": "paths\\lvl4_path\\lvl4_path.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "c8a56017-2cb1-479b-a93e-14f3e17083c5",
             "Value": {
                 "id": "ac8d3a43-27f0-4e5e-a4d4-5fa2130d599b",

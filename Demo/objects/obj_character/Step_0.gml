@@ -13,6 +13,10 @@ if (global.pause = false)
 	{
 		path_speed = path_get_length(lvl3_path)/5300;
 	}
+	else if (global.last_level == 4)
+	{
+		path_speed = path_get_length(lvl4_path)/4100;
+	}
 	
 	if (global.time < 60)
 	{
