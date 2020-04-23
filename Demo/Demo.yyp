@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "05e2c36d-598c-4dcc-b005-f558c79132ff",
+            "Value": {
+                "id": "e7b31431-8434-4d42-bf71-167006704ce5",
+                "resourcePath": "objects\\LVL4_Debug\\LVL4_Debug.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "078528c3-eb3f-4155-bf29-79e5cb97dfe2",
             "Value": {
                 "id": "3e8eb3d7-09d7-4b62-a734-fbb14570f991",
@@ -212,6 +220,14 @@
                 "id": "0730d7ef-7bb8-4d41-b852-5f2b4f662233",
                 "resourcePath": "sprites\\Player_R\\Player_R.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1bae9222-0bd3-4f61-8533-6a2ca56e1c41",
+            "Value": {
+                "id": "ba719653-4582-4826-90b9-3fc284c2bfd6",
+                "resourcePath": "rooms\\lvl4Debug\\lvl4Debug.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -468,6 +484,14 @@
                 "id": "35781ec1-e8c1-4e26-8128-8e054016193a",
                 "resourcePath": "objects\\obj_note_Space\\obj_note_Space.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4406414b-a3bc-445b-a829-dd20371d3248",
+            "Value": {
+                "id": "a6f6511e-025c-4664-a966-285c6db3e3fc",
+                "resourcePath": "sounds\\Ciuri_Ciuri\\Ciuri_Ciuri.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1124,6 +1148,14 @@
                 "id": "f489d664-65d1-4cb4-af0f-ebe9d939f104",
                 "resourcePath": "sprites\\sprite_highscore\\sprite_highscore.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ba236cdf-5666-4daa-878e-bcda7a617387",
+            "Value": {
+                "id": "f8e5c31d-21c8-44ca-9fe1-e68caa664d77",
+                "resourcePath": "datafiles_yy\\LVL4_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
