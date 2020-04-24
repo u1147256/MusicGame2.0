@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Tambourine_Token",
     "eventList": [
-        
+        {
+            "id": "10fa40f5-389d-4c1a-8553-17a1810ca08e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "fa1a1579-bdc8-40f3-88ee-25808fb28135"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

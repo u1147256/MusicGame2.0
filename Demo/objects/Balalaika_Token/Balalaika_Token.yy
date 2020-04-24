@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "Balalaika_Token",
     "eventList": [
-        
+        {
+            "id": "8bbe24fe-2950-4307-872f-e5058952a871",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "450b3759-4363-4184-bd2b-63b69a5bac7f"
+        },
+        {
+            "id": "cc2ad4ae-7e22-49ae-a86e-d4f1f3c8db50",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 27,
+            "eventtype": 5,
+            "m_owner": "450b3759-4363-4184-bd2b-63b69a5bac7f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

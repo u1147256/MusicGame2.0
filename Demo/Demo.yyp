@@ -1183,6 +1183,14 @@
             }
         },
         {
+            "Key": "bc44cbf1-ebf5-4886-ad73-f83993bfd9e6",
+            "Value": {
+                "id": "c9f18cb9-1a3a-4393-9f8e-635fa44cb8d1",
+                "resourcePath": "datafiles_yy\\Beat_Levels.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "bc97d7ba-f331-4c6f-ba4c-8dc12ce18b32",
             "Value": {
                 "id": "6cd9773c-bf2a-4d3a-b145-26d3a10707ea",

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Fiddle_Token",
     "eventList": [
-        
+        {
+            "id": "3f21d05e-b648-40ce-96df-92078427c269",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "44b2635a-cd25-4277-8194-477998f0a991"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -151,4 +151,32 @@ global.volumeArr = [0, 0.2, 0.4, 0.6, 0.8, 1]; //array for volume sliders
 audio_group_load(audiogroup_voice);
 audio_group_load(audiogroup_songs);
 audio_group_load(audiogroup_fx);
+
+// determine what levels have been beaten
+global.lvl1Beat = false;
+global.lvl2Beat = false;
+global.lvl3Beat = false;
+global.lvl4Beat = false;
+
+file = file_text_open_read(working_directory + "\Beat_Levels.txt");
+while (!file_text_eof(file))
+{
+	level = file_text_read_real(file);
+	switch(level)
+	{
+		case 1:
+			global.lvl1Beat = true;
+		case 2:
+			global.lvl2Beat = true;
+			break;
+		case 3:
+			global.lvl3Beat = true;
+			break;
+		case 4:
+			global.lvl4Beat = true;
+			break;
+	}
+}
+file_text_close(file);
+
 room_goto(start_screen);

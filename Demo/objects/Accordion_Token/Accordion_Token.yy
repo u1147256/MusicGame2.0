@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Accordion_Token",
     "eventList": [
-        
+        {
+            "id": "20c8c3f3-d1e7-4af3-8d4b-d45f2d73661f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3d30b2f8-9367-4e16-8a57-9f5c088cfc0d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
