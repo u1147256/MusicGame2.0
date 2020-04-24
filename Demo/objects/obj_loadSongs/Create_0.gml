@@ -142,6 +142,7 @@ while (!file_text_eof(file))
 }
 file_text_close(file);
 // this is for setting volumes later.
+global.previousVoiceIndex = 0;
 global.voiceIndex = 5;
 global.musicIndex = 5;
 global.FXIndex = 5;

@@ -663,6 +663,14 @@
             }
         },
         {
+            "Key": "5adea4bf-d40f-4f12-82e0-ae99a54329a9",
+            "Value": {
+                "id": "8c4b1c67-0da5-4365-9cce-33277930ebdf",
+                "resourcePath": "objects\\obj_mute_button\\obj_mute_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5b0f67b8-bfef-4341-945c-2430759a8998",
             "Value": {
                 "id": "5da9b5ce-63f0-4899-8025-c233fbef3e07",
