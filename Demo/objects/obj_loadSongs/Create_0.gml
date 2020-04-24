@@ -166,6 +166,7 @@ while (!file_text_eof(file))
 	{
 		case 1:
 			global.lvl1Beat = true;
+			break;
 		case 2:
 			global.lvl2Beat = true;
 			break;
