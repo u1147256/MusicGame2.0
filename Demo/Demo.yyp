@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "40f1058e-54bb-4194-8e16-e77f59ffc099",
+            "Value": {
+                "id": "a83b81ec-5a51-48c7-8333-31ebf203f098",
+                "resourcePath": "datafiles_yy\\LVL4_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "41c1818e-c4f2-4af9-9511-0e8480fe44b0",
             "Value": {
                 "id": "05228e76-78d0-4b5c-a0d1-42a950b5bbab",
@@ -719,6 +727,14 @@
             }
         },
         {
+            "Key": "650c815e-10e6-482a-97ee-d3324cf76c3c",
+            "Value": {
+                "id": "09e33f9f-0e5f-440f-a79c-ee5f1bda0416",
+                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "68fe1f94-252b-4682-9c64-a06c40ca72df",
             "Value": {
                 "id": "df9f533f-dd54-4b78-850f-6ffc367256ad",
@@ -756,14 +772,6 @@
                 "id": "1dea48b1-ecb0-48a1-ba83-f148b31dc0af",
                 "resourcePath": "timelines\\timeline0\\timeline0.yy",
                 "resourceType": "GMTimeline"
-            }
-        },
-        {
-            "Key": "6f49e617-e46b-4763-9e07-2a1d18723c2d",
-            "Value": {
-                "id": "976e0294-4239-4bdc-8baf-7b818a56f54f",
-                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -1068,14 +1076,6 @@
                 "id": "766a55d5-752e-4f05-afdb-396dd80714bd",
                 "resourcePath": "sprites\\ItalyB\\ItalyB.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "afacdfac-cd7f-4842-a345-afc11c822b74",
-            "Value": {
-                "id": "bae3a65d-f3a7-40d3-b34e-69b654a361a3",
-                "resourcePath": "datafiles_yy\\LVL4_Notes.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
