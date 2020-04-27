@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "03796c8d-1992-4822-9a49-e2b56d117b43",
+            "Value": {
+                "id": "56ae6e6b-00a0-48de-ae70-f0126a6e66a0",
+                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "03a6a06c-d67b-43c6-a690-deb2602ef820",
             "Value": {
                 "id": "34b0d581-c76d-49e2-8882-7d05bcdde6f5",
@@ -724,14 +732,6 @@
                 "id": "5c140d5d-d839-4cf9-9cf5-7c67bbabec45",
                 "resourcePath": "paths\\lvl2_path\\lvl2_path.yy",
                 "resourceType": "GMPath"
-            }
-        },
-        {
-            "Key": "650c815e-10e6-482a-97ee-d3324cf76c3c",
-            "Value": {
-                "id": "09e33f9f-0e5f-440f-a79c-ee5f1bda0416",
-                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
