@@ -759,6 +759,14 @@
             }
         },
         {
+            "Key": "6f49e617-e46b-4763-9e07-2a1d18723c2d",
+            "Value": {
+                "id": "976e0294-4239-4bdc-8baf-7b818a56f54f",
+                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "6fc7287f-85ef-497a-948a-eee9327cfe51",
             "Value": {
                 "id": "0fb15945-1aa1-406c-9921-9343ecb336bd",
@@ -980,14 +988,6 @@
                 "id": "44cfeba4-cc95-48fd-b4f6-bc460480fd08",
                 "resourcePath": "views\\9fc923e5-360b-4aa1-9f39-ee881eba21e8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a0d92984-adfe-4cb5-b7dd-2ff151924f34",
-            "Value": {
-                "id": "2d00267a-7b31-400f-a09d-358761cd3db4",
-                "resourcePath": "datafiles_yy\\LVL3_Notes.txt.yy",
-                "resourceType": "GMIncludedFile"
             }
         },
         {
