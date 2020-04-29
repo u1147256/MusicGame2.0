@@ -1,5 +1,5 @@
 global.lvl3Beat = true;
-
+global.last_level = -1;
 //read contents of file
 file = file_text_open_read(working_directory + "\Beat_Levels.txt");
 str = "";
