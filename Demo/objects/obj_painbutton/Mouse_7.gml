@@ -16,6 +16,11 @@ if (global.pause || global.last_level == -1)
 		global.last_level = 6;
 		room_goto(lvl3);
 	}
+		else if global.last_level == 4
+	{
+		global.last_level = 6;
+		room_goto(lvl4);
+	}
 	else
 	{
 		room_goto(menu);

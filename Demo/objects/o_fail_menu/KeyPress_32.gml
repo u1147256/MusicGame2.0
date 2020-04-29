@@ -9,6 +9,14 @@ switch(menu_index) {
 			{
 			room_goto(lvl2);
 			}
+		else if global.last_level == 3
+			{
+			room_goto(lvl3);
+			}
+		else if global.last_level == 4
+			{
+			room_goto(lvl4);
+			}
 		else
 			{
 			room_goto(menu);
