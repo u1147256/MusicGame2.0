@@ -10,6 +10,9 @@ switch(menu_index) {
 		room_goto(Trophy);
 		break;
 	case 3:
+		room_goto(Credits);
+		break;
+	case 4:
 		game_end();
 		break;
 }
